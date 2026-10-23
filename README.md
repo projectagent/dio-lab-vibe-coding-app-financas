@@ -58,9 +58,7 @@ Adicione ao repositório capturas reais da criação e das iterações. Crie a p
 
 <img width="720" alt="Evidência do protótipo" src="https://github.com/user-attachments/assets/826b7410-fd86-4c8f-8779-a249cfef1cdc" />
 
-<img width="720" alt="Evidência da interface final" src="https://github.com/user-attachments/assets/dbee9a16-0ef3-4906-a885-ff3531103a26" />
-
-<img width="720" alt="Evidência complementar do projeto" src="https://github.com/user-attachments/assets/7e321458-c4e3-4704-bf6e-c0a17957b1e3" />
+<img width="720" alt="Evidência da interface final" src="https://github.com/user-attachments/assets/003dbedc-5f1e-4ee6-bfc9-7638983cfefd" />
 
 
 ## Reflexões e aprendizados
