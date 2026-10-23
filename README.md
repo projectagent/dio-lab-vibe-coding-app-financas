@@ -1,4 +1,4 @@
-<img width="1032" height="624" alt="image" src="https://github.com/user-attachments/assets/5ce9e42d-c281-4abd-9831-24da89ecec63" /># 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais com Vibe Coding
 ## Controle Financeiro Pessoal com Vibe Coding
 
 Aplicação web de finanças pessoais pensada para registrar transações por meio de linguagem natural. A proposta reduz o atrito de formulários: a pessoa descreve uma movimentação, confere os dados interpretados e confirma antes de adicioná-la ao controle financeiro.
@@ -50,17 +50,17 @@ Entregue uma experiência funcional para demonstrar o fluxo do MVP, com dados de
 
 Adicione ao repositório capturas reais da criação e das iterações. Crie a pasta `docs/` e coloque nela os arquivos abaixo; então descomente as imagens ou atualize os caminhos.
 
-<img width="1032" height="624" alt="image" src="https://github.com/user-attachments/assets/91126b19-81c8-4222-ae37-0c175b5393c8" />
+<img width="720" alt="Evidência do processo de criação" src="https://github.com/user-attachments/assets/91126b19-81c8-4222-ae37-0c175b5393c8" />
 
-<img width="1078" height="620" alt="image" src="https://github.com/user-attachments/assets/59fed3d0-3d26-493d-aeeb-4ea5336a9ea9" />
+<img width="720" alt="Evidência de interação com a IA" src="https://github.com/user-attachments/assets/59fed3d0-3d26-493d-aeeb-4ea5336a9ea9" />
 
-<img width="1059" height="511" alt="image" src="https://github.com/user-attachments/assets/0d6d81ad-5c08-46c8-b409-ceb1375130ff" />
+<img width="720" alt="Evidência da evolução do projeto" src="https://github.com/user-attachments/assets/0d6d81ad-5c08-46c8-b409-ceb1375130ff" />
 
-<img width="1113" height="597" alt="image" src="https://github.com/user-attachments/assets/826b7410-fd86-4c8f-8779-a249cfef1cdc" />
+<img width="720" alt="Evidência do protótipo" src="https://github.com/user-attachments/assets/826b7410-fd86-4c8f-8779-a249cfef1cdc" />
 
-<img width="1197" height="675" alt="image" src="https://github.com/user-attachments/assets/dbee9a16-0ef3-4906-a885-ff3531103a26" />
+<img width="720" alt="Evidência da interface final" src="https://github.com/user-attachments/assets/dbee9a16-0ef3-4906-a885-ff3531103a26" />
 
-<img width="763" height="339" alt="image" src="https://github.com/user-attachments/assets/7e321458-c4e3-4704-bf6e-c0a17957b1e3" />
+<img width="720" alt="Evidência complementar do projeto" src="https://github.com/user-attachments/assets/7e321458-c4e3-4704-bf6e-c0a17957b1e3" />
 
 
 ## Reflexões e aprendizados
